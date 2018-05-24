@@ -655,9 +655,9 @@ number-is-nan@^1.0.0:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/number-is-nan/-/number-is-nan-1.0.1.tgz#097b602b53422a522c1afb8790318336941a011d"
 
-oao@0.10.5:
-  version "0.10.5"
-  resolved "https://registry.yarnpkg.com/oao/-/oao-0.10.5.tgz#3c8aeb9cdb69c575f63b273867e4407d57eadd3d"
+oao@1.5.1:
+  version "1.5.1"
+  resolved "https://registry.yarnpkg.com/oao/-/oao-1.5.1.tgz#ead609ee2b36bf56699f06a38be16340ce6be099"
   dependencies:
     babel-polyfill "6.26.0"
     commander "2.11.0"
@@ -665,6 +665,7 @@ oao@0.10.5:
     globby "6.1.0"
     inquirer "3.2.1"
     kebab-case "1.0.0"
+    minimatch "^3.0.4"
     rimraf "2.6.1"
     semver "5.4.1"
     shelljs "0.7.8"

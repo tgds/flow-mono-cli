@@ -28,6 +28,6 @@
     }
   },
   "devDependencies": {
-    "oao": "0.10.5"
+    "oao": "1.5.1"
   }
 }
